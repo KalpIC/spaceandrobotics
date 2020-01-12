@@ -1,0 +1,43 @@
+﻿.indexheader{
+    background-image: url("banner2.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding:20px;
+
+}
+
+.bannerh1{
+    margin-top:50px;
+    margin-right:50px;
+    margin-bottom:400px;
+    color:blue;
+    font-size:60px;
+}
+
+.contacth1{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    color: cornsilk;
+}
+
+.contactHeader{
+    background-image:url("banner2.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding:20px;
+}
+    
+.divincenter{
+    display: table;
+    margin:auto;
+}
+
+.btnSend{
+    background-color: crimson;
+    display: table;
+    margin:auto;
+    padding:10px 80px;
+    font-size:25px;
+
+}
