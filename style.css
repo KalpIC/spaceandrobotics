@@ -1,43 +1,30 @@
-﻿.indexheader{
-    background-image: url("banner2.png");
-    background-repeat: no-repeat;
-    background-size:cover;
-    padding:20px;
+﻿body{
+    border-left: chartreuse solid 40px;
+    border-right: chartreuse solid 40px;
+
 
 }
-
-.bannerh1{
-    margin-top:50px;
-    margin-right:50px;
-    margin-bottom:400px;
-    color:blue;
-    font-size:60px;
+.hr1{
+    background-color: darkblue;
+    width: 80%;
+    height:2px;
 }
 
-.contacth1{
+.designBlock{
+    font-size: medium;
     text-align: center;
-    margin-top: 200px;
-    margin-bottom: 200px;
-    color: cornsilk;
-}
+    color:chartreuse;
+    background-color: black;
+    margin:10%;
+    padding:10%;
+    border-right: crimson solid 5vw;
+    border-bottom: yellow solid 5vw;
+    border-left: crimson solid 5vw;
+    border-top: yellow solid 5vw;
+    border-radius: 12px;
 
-.contactHeader{
-    background-image:url("banner2.png");
-    background-repeat: no-repeat;
-    background-size:cover;
-    padding:20px;
 }
+.designBlock :hover{
     
-.divincenter{
-    display: table;
-    margin:auto;
-}
-
-.btnSend{
-    background-color: crimson;
-    display: table;
-    margin:auto;
-    padding:10px 80px;
-    font-size:25px;
-
+    color:white;
 }
